@@ -1,3 +1,50 @@
 .sm_section_green{
-    background-color:black;
+    background-color:#1ABC9C;
+}
+
+.white{
+    color:white;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.sm_title{
+    font-size: 35px;
+    font-weight: 600;
+    font-family: Arial;
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+
+.staricon{
+    font-size: large;
+    padding-left: 15px;
+    padding-right:15px;
+  
+}
+.sm_longline{
+    height: 4px;    
+    border-radius: 10px;
+    background-color: black;
+}
+
+.sm_job{
+    font-size: 17px;
+    font-weight: 500;
+    font-family: Arial;
+    color: white;
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+.sm_subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial;
+    padding-bottom: 25px;
+    padding-top: 30px;
+    padding-bottom: 20;
 }
