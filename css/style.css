@@ -53,4 +53,17 @@
     border-radius: 15px;
 }
 
+.sm_text{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Arial;
+    color: white;
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
 
+.btn-outline-primary{
+    color: white;
+    border: 1px solid white;
+
+  }
