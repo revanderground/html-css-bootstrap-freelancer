@@ -31,7 +31,7 @@
     background-color: black;
 }
 
-.sm_job{
+.sm_bigtext{
     font-size: 17px;
     font-weight: 500;
     font-family: Arial;
@@ -67,3 +67,58 @@
     border: 1px solid white;
 
   }
+
+.footer-top{
+      background-color: #3A546D;
+}
+
+.footer-bottom{
+    background-color: #2C3E50;
+}
+
+.footertitle{
+    font-family: Arial;
+    font-size: 14px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+a{
+   color: #1ABC9C;
+}
+
+a:active, a:visited{
+    color:#1ABC9C
+}
+
+.f-icon{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.f-iconfb{
+    padding-left: 14px;
+    padding-right: 14px;
+}   
+
+.f-icongl{
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.f-icontw{
+    padding-left: 11px;
+    padding-right: 11px;
+}
+
+.f-iconln{
+    padding-left: 11px;
+    padding-right: 11px;
+}
+
+span{
+    padding-left: 5px;
+    padding-right: 5px;
+}
