@@ -2,7 +2,6 @@
     background-color:#1ABC9C;
 }
 
-
 .bg-nav{
     background-color: #2C3E50!important;
 }
@@ -26,6 +25,10 @@ a, a:visited{
 
 .myhover:hover{
     color: #1ABC9C;
+}
+
+.mycolor{
+    background-color: #1ABC9C;
 }
 
 .border-white{
