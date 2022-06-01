@@ -29,6 +29,13 @@ a, a:visited{
 
 .mycolor{
     background-color: #1ABC9C;
+    border: none;
+}
+
+.formcellstyle{
+    border-top: none;
+    border-left:none;
+    border-right: none;
 }
 
 .border-white{
