@@ -2,13 +2,43 @@
     background-color:#1ABC9C;
 }
 
+
+.bg-nav{
+    background-color: #2C3E50!important;
+}
+
+
+.padding-top{
+    padding-top: 70px;
+}
+
 .white{
     color:white;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+a, a:visited{
+    color:white;
+}
+
+.myhover:hover{
+    color: #1ABC9C;
+}
+
+.border-white{
+    border: 1px solid white;
 }
 
 .bg-white{
     background-color: white;
 }
+
+.navbar-nav > a, a:visited{
+    color: #ffffff;
+ }
 
 .sm_title{
     font-size: 35px;
@@ -68,12 +98,15 @@
 
   }
 
+
+
 .footer-top{
       background-color: #3A546D;
 }
 
 .footer-bottom{
     background-color: #2C3E50;
+  
 }
 
 .footertitle{
@@ -83,12 +116,8 @@
     padding-bottom: 50px;
 }
 
-a{
-   color: #1ABC9C;
-}
-
-a:active, a:visited{
-    color:#1ABC9C
+#pincopallino{
+    color: #1ABC9C;
 }
 
 .f-icon{
@@ -122,3 +151,4 @@ span{
     padding-left: 5px;
     padding-right: 5px;
 }
+
